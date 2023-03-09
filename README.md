@@ -24,5 +24,5 @@ Generally, we sign-up for various websites such as E-commerce, Social Media and 
 * After that you are good to proceed.
 
 <p align="center">
-<img src="https://github.com/Ajmal-Achu/Password-gen/blob/main/Media/password.gif"
+<img src="https://github.com/Mohalicious/password-gen/blob/main/Media/password.gif"
 </p>
